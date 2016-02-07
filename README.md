@@ -1,26 +1,25 @@
-# Markbot template
+# Stacked navigation
 
 - Approx. completion time: **1 hour**
-- Deliverables: **1 HTML file, 1 CSS file, images**
+- Deliverables: **1 HTML file, 1 CSS file**
 
 ---
 
-**Quick project summary shown here.**
+**Make a stacked navigation using the CSS flow and display properties.**
 
 - *Fork this repository.*
-- List of tasks
-- And details
-- About the project
+- Create the `index.html` and `main.css` files.
+- Make the navigation match the screenshot.
+- The Google Font used is called “Dosis”.
 - *Run it through Markbot and make sure it passes all the checks.*
 
 ---
 
 ## Goal
 
-Visually match the images in the “screenshots” folder and create the interaction shown in the linked video.
+Visually match the images in the “screenshots” folder.
 
 - [Final screenshots in the “screenshots” folder.](screenshots)
-- [**Watch this video to see how it interacts.**](https://youtu.be/)
 
 ---
 
