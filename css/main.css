@@ -1,3 +1,35 @@
 html {
-  font-family: 'Dosis', sans-serif;
+  font-family: "Dosis", sans-serif;
+}
+body {
+  background-color: #efeee9;
+  margin: 0;
+}
+
+h1 {
+  color: #412a0a;
+  text-align: center;
+  display: block;
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+  display: block;
+  list-style-type: none;
+  text-align: center;
+  background-color: #9a8169;
+}
+
+li:hover {
+  background-color: #795437;
+}
+
+li {
+    border: 1px solid #795437;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
 }
